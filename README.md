@@ -1,8 +1,9 @@
-## Flutter--
+## Flutter UI design application
 
-A new dart project designed for 
+A new dart project of an application which will be the interface of a basic app
 
 # ScreenShots
+<img src="images/interface.png" width="250">
 
 This project is a basic idea of my desire mobile app.
 
